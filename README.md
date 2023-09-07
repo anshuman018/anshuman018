@@ -180,17 +180,7 @@
     
   </p>
 
- <!-- Your existing content -->
 
-
-  <!-- Your skills and technologies badges here -->
-</p>
-
-<p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anshuman018.anshuman018" alt="Visitor Counter">
-</p>
-
-<!-- More of your content -->
 
 
   
