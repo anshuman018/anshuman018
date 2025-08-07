@@ -30,7 +30,7 @@ I'm slapping together a blockchain-AI-Web3-quantum shitstorm in WebAssembly that
 - **X**: [@anshumanos](https://twitter.com/anshumanos) — Where I dunk on React hooks and scream about Docker's bullshit.
 - **Stack Overflow**: I'm the sad fuck with 3 upvotes on a 2015 question about jQuery. Yes, I regret it.
 
-*"Code's like a fucking startup: you pour your soul into it, and it still shits the bed at scale."*
+*"Code’s like sex: one mistake and you’re supporting it for life."*
 
 — Me, after my eighth Monster and a `yarn install` that ate my SSD
 
