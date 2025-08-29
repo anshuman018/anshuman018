@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a software engineer who enjoys pushing the boundaries of what's possible with code. I believe in learning through experimentation—even when it means spending 16 hours debugging a segfault caused by typing `maim` instead of `main`.
+I'm a software engineer who enjoys pushing the boundaries of what's possible with code. I believe in learning through experimentation even when it means spending 16 hours debugging a segfault caused by typing `maim` instead of `main`.
 
 My approach to programming combines practical problem-solving with exploration of unconventional languages and technologies. I maintain clean repositories and believe that every bug is an opportunity to learn something new.
 
